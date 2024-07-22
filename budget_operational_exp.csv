@@ -1,13 +1,13 @@
-items_package,cost
-operational_exp_1,190
-operational_exp_2,313
-operational_exp_3,232
-operational_exp_4,663
-operational_exp_5,654
-operational_exp_6,414
-operational_exp_7,360
-operational_exp_8,600
-operational_exp_9,342
-operational_exp_10,524
-operational_exp_11,343
-operational_exp_12,367
+items_package,cost,category
+operational_exp_1,436,Repairs
+operational_exp_2,431,Recurring payments
+operational_exp_3,311,Repairs
+operational_exp_4,509,Travel expenses
+operational_exp_5,544,Repairs
+operational_exp_6,305,Recurring payments
+operational_exp_7,269,Recurring payments
+operational_exp_8,481,Repairs
+operational_exp_9,581,Repairs
+operational_exp_10,520,Repairs
+operational_exp_11,223,Travel expenses
+operational_exp_12,390,Repairs
